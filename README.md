@@ -22,4 +22,4 @@ cp ../../air/benches/data/anomaly_big.json ../../benches/performance_metering/bi
 cp ../../air/benches/data/anomaly_long.json ../../benches/performance_metering/long_data/cur_data.json
 ```
 
-You may need update the `cidify` tool if you change data format again.
+You may need update the `junk/cidify` tool if you change data format again.

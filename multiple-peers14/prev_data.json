@@ -3,14 +3,14 @@
 "canon_element_store": {},
 "canon_result_store": {},
 "service_result_store": {
-"bagaaieran57a2jmc23bun7cvrungjal2vf4tht5torcwfl6exgno2ow4ynma": {
-"argument_hash": "bagaaieraj5j43immfovaya2uxnpzupwl4xwrfk2nryi3vbz4f4irmeqcxfcq",
-"tetraplet_cid": "bagaaierazalcvolvfdovxuklvznoyrhn5gg4drlbbplrf7rrwullfw2zjd7q",
-"value_cid": "bagaaieramm3kz5cu4bw4rx45bqdvunoc766s5tiqq57kedlgohklidri22wa"
+"bagaajyheaiqovko25c5m7ji7eun2xql4vklazzcmrhgs6dmbq65kkdlrlaauzdy": {
+"argument_hash": "bagaajyheaiqnghajgyz5odvybefyoljsm3q4x36bepn2hyhdlvf5j6wpdeyiq6y",
+"tetraplet_cid": "bagaajyheaiqjkrrktypujlitfayzqxin622i2x7ykieej65o6kzocvnyj66la6y",
+"value_cid": "bagaajyheaiqntac5x27wn6pgm53dbesven6lbmxhvndn5mk7suhmgwnl6n2cwca"
 }
 },
 "tetraplet_store": {
-"bagaaierazalcvolvfdovxuklvznoyrhn5gg4drlbbplrf7rrwullfw2zjd7q": {
+"bagaajyheaiqjkrrktypujlitfayzqxin622i2x7ykieej65o6kzocvnyj66la6y": {
 "function_name": "init",
 "json_path": "",
 "peer_pk": "12D3KooWPeUMWXdtEveZonecW8hhFdt4wfT4AyYpp4yrFGti7w5m",
@@ -18,7 +18,7 @@
 }
 },
 "value_store": {
-"bagaaieramm3kz5cu4bw4rx45bqdvunoc766s5tiqq57kedlgohklidri22wa": [
+"bagaajyheaiqntac5x27wn6pgm53dbesven6lbmxhvndn5mk7suhmgwnl6n2cwca": [
 "12D3KooWQ8ZKGDbSPp33JLaum9bQ3afhLinWr8vdfKHaorTdBeTw",
 "12D3KooWKdFJFg5FPo1ygEJd5uMf6dzpaMC7HqLgvirYnSjmBxcZ",
 "12D3KooWRwuE9mscEw6aZeWoTtkFazxUsLqmmkvecxF1yTNuoskn",
@@ -36,18 +36,16 @@
 ]
 }
 },
-"interpreter_version": "0.41.0",
+"interpreter_version": "0.44.0",
 "lcid": 1,
-"r_streams": {},
 "signatures": {
-"1Eq7BmQ4B42P5Pu9BsXxMUqoETLQR9HULrUcpsHjpDzMq": "147MV1MzYAjiQhzceX5M1myXkUUwoq6NPBgG5RhLVyiUrJJaBQULneQ6Jw6q92Ska7BWTC9CkebgxmVyuibK1obHv"
+"1Eq7BmQ4B42P5Pu9BsXxMUqoETLQR9HULrUcpsHjpDzMq": "12tnAUvrefRJwpgp8NLu1eXZnWPqb2pHy5ShNDQ9K3sZYfB5rFLA2M8Bvg3Jj3wqCxAKzWbndGHMmx5AFkP7qz9Z3"
 },
-"streams": {},
 "trace": [
 {
 "call": {
 "executed": {
-"scalar": "bagaaieran57a2jmc23bun7cvrungjal2vf4tht5torcwfl6exgno2ow4ynma"
+"scalar": "bagaajyheaiqovko25c5m7ji7eun2xql4vklazzcmrhgs6dmbq65kkdlrlaauzdy"
 }
 }
 },
@@ -59,5 +57,5 @@
 }
 }
 ],
-"version": "0.8.0"
+"version": "0.10.0"
 }
