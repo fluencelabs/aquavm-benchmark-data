@@ -122,7 +122,7 @@
 "bagaaierax6yjva6rzg4dlkmdqx7gi332gjgt3v7fjp7gplai7du3vxw6xc4a": "12D3KooWSVTLDsJXiXGiTY2rSmgP9mmuUnFNsfieGfh69SaDDTqr"
 }
 },
-"interpreter_version": "0.43.1",
+"interpreter_version": "0.53.0",
 "lcid": 5,
 "signatures": {
 "16T4U5eigBJkSem7ZVbrgmtkFzwdsugtDr83TyLoC5ihR": "15rUrYoN2YDe9115jnpHZKepmww8bhC8mKyJoudvyrA9dMRqu1nXc5wkiUkDNi8NumXTeRacaXRBgbdV34yX5kDck",
@@ -360,5 +360,5 @@
 }
 }
 ],
-"version": "0.9.0"
+"version": "0.13.0"
 }
